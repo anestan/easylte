@@ -64,7 +64,7 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="#" class="nav-link" onClick="_route('pages/datagrid.php');">
+                            <a href="javascript:void(0)" class="nav-link" onClick="_route('pages/datagrid.php');">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Datagrid</p>
                             </a>
